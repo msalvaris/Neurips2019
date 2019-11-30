@@ -1,0 +1,2 @@
+# NeurIPS2019
+There is so much at NeurIPS and all conferences really that it can be hard to sort through. In this repo there is the [proceedings](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019) information stored as a [csv](neurips2019.csv). There is a [notebook](ExploreData.ipynb) that has a small app made using IPython widgets to filter, select and download papers. The data was gathered using [this notebook](GatherData.ipynb).
