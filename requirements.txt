@@ -1,0 +1,2 @@
+pandas==0.25.3
+ipyaggrid==0.2.0
